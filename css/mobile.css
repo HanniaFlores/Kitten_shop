@@ -5,6 +5,10 @@
         margin: 0px;
     }
 
+    nav ul {
+        padding-left: 0px
+    }
+
     nav li {
         padding-left: 10px;
     }
@@ -30,7 +34,7 @@
     .descriptions {
         display: inherit;
         height: auto;
-        padding-left: 30%;
+        padding-left: 20%;
     }
 
     .element1 p, h3{
